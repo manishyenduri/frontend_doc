@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226" height="84" viewBox="0 0 226 84">
+  <g id="Group_1" data-name="Group 1" transform="translate(-734 -165)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(734 165)" fill="none" stroke="#9b1e28" stroke-width="1">
+      <rect width="226" height="84" stroke="none"/>
+      <rect x="0.5" y="0.5" width="225" height="83" fill="none"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(753 178)" fill="#9b1e28" stroke="#fff" stroke-width="3">
+      <rect width="55" height="58" stroke="none"/>
+      <rect x="1.5" y="1.5" width="52" height="55" fill="none"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(762 187)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="37" height="11" stroke="none"/>
+      <rect x="0.5" y="0.5" width="36" height="10" fill="none"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(762 202)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="26" height="11" stroke="none"/>
+      <rect x="0.5" y="0.5" width="25" height="10" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(762 217)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="13" height="11" stroke="none"/>
+      <rect x="0.5" y="0.5" width="12" height="10" fill="none"/>
+    </g>
+    <text id="IDFC_FIRST" data-name="IDFC FIRST" transform="translate(818 201)" fill="#8f1a23" font-size="24" font-family="MavenPro-SemiBold, Maven Pro" font-weight="600"><tspan x="0" y="0">IDFC FIRST</tspan></text>
+    <text id="Bank" transform="translate(818 232)" fill="#8f1a23" font-size="24" font-family="MavenPro-SemiBold, Maven Pro" font-weight="600"><tspan x="0" y="0">Bank</tspan></text>
+  </g>
+</svg>
